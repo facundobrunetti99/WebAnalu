@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #ffffff !important;
+}
+
+.conteiner-navbar{
+    width: 95%;
+   padding: 20px;
+
+   margin: auto;
+   
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: #ffffff !important;
+    padding: 0 !important;
+
+    margin: auto;
+}
+.logo-analu{
+    width: 50%;
+}
+.navbar-nav{
+    
+    width: 30%;
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-right: 0;
+}
