@@ -20,8 +20,8 @@ const Navbar = () => {
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <div className="div-logo-analu">
-                <a href="#" className="img-cake">
-                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAb5JREFUWEftV1FygkAMzRt6DJmhN1HpPSo/xVuot9D+VO9R7d6kzOgximlDWWeBRdcVxx/4USEkL8l7yQp68IUHx6ebALwMpkNJ4OeJMpUtM59kvAEMo2kU5PwtQZl5vju8L3oAnVZA97fN6REUgfijfL4GY3MOQBtPGhwYD95mAOY+2Ti8o/IAiUnYCoA7B9f4sjzASIM4ATBZrcvKzF7SslUCwISIokI1hGS3X67luxXALbJqa0MtwfV2v0oqAIR0DP6qI3Toq7NJHKZcGqvtfjXqAXRSAemt6x5wbgERZUxYHANSNufjcDoB8UyzWqsmD7Cw2Zf8Evtief19nueAwarG4IjDVIiqHdUJWNG4PGyZLc4AigAiSwCiYQlcaFlnXf6We+Z9xcwKgNjbwF5QwX/A0+Cw6CwDI/k8LJV+Foep7AV5x3qBMdIyv9gCPalKp42s23pdlrsOvFhUAtaZhOaolHSERLLNCvY4nHza7L0BOI+6C4Y9AOcKSKu7KnvNTyFJc9tWDiRxmMop19TzXXDkAZ4bBxLNdga/WgZOV0AUEzb6MFJZRl1FuNaP9x+TawO1TsiuHPn66SvwC6NaXjBSssV4AAAAAElFTkSuQmCC" />
+                <a href="" className="img-cake">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAcxJREFUWEftV0tygkAQ7UcuQnYJlQOkJIt4ieAuchL1JNGd5hKyiFYOkDLZhYPIdKoJg3wG+YjlRlZTzND9uvu97gF04QcX9k8nAXh6GD1LAPs9hZ8/y7BLMJ0BPN6N7BuLf8UpE0+3u/fZFUCvGdD1rTKqFNkgfkv257CwOAagiiclDgyclwkI0y7R1H7DFEQMP0vYHICzOj+gCyOFoQaRAsiyWqeViTtJy5QJEMZEZP+rBv52t5zL2gjgFFlVlaEQ4HyzW/k5AEI6VrwuIqyta4sDruNxfJwp2HyvhlcAvWRAatt0DjQuARGFTJgpRYHJ+MAZjUE80azWqokUZqbzMb8inhAoHl61HEh5ZWgc7r23Tg2VCZjTuGwbe0sdCYt2RZYgiIYlgljLOmpisgnxu8N7poDBARjPRrB1ABKHaeMwKC2EBf/jaxnoPdfxZC7IN8YHFoZa5rUl0J0qMVqKuqrWSbqLwONBJWAbkzDbKiUcIZFMM1k3YXzV+c4AWjS7o0evABpnQFjaV9pzdpJGlJ22uQuJ63hyy83q/Cw4IoXb0oVEs50VvxoaTj9A4gaFhb6M5IZRPx7aW+n8Y9LeVUWH7MtQVzvXDPwBe019MD2qc5QAAAAASUVORK5CYII="/>
                 </a>
                 <a className="p-analu" href="#">
                   Analu <p className="p-pasteleria">Pasteleria</p>
