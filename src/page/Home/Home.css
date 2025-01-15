@@ -5,3 +5,8 @@
     background-color: rgb(67, 29, 103) !important;
     padding: 30px;
 }
+.main-conteiner{
+    width: 92%;
+    height: 100vh;
+    margin: auto;
+}

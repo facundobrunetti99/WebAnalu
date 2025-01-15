@@ -1,31 +1,73 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    background-color: #ffffff !important;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #ffffff !important;
 }
 
-.conteiner-navbar{
-    width: 95%;
-   padding: 20px;
+.conteiner-navbar {
+  width: 92%;
+  padding: 20px;
 
-   margin: auto;
-   
+  margin: auto;
 }
 .bg-body-tertiary {
-    --bs-bg-opacity: 1;
-    background-color: #ffffff !important;
-    padding: 0 !important;
+  --bs-bg-opacity: 1;
+  background-color: #ffffff !important;
+  padding: 0 !important;
 
-    margin: auto;
+  margin: auto;
 }
-.logo-analu{
-    width: 50%;
+.div-logo-analu {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
-.navbar-nav{
-    
-    width: 30%;
-    display: flex !important;
-    justify-content: space-between !important;
-    margin-right: 0;
+.navbar-nav {
+  width: 40%;
+  display: flex !important;
+  justify-content: space-between !important;
+  margin-right: 0;
+}
+.nav-item {
+  padding: 0 15px;
+}
+.p-analu {
+  font-size: 32px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-family: "Cedarville Cursive", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+  width: 90%;
+  text-align: start;
+}
+
+.btn-outline-success {
+  --bs-btn-color: rgb(75, 75, 75) !important;
+  --bs-btn-border-color: rgb(75, 75, 75) !important;
+  --bs-btn-hover-color: #706c6c !important;
+  --bs-btn-hover-bg: rgb(75, 75, 75) !important;
+  --bs-btn-hover-border-color: rgb(23, 20, 20) !important;
+  --bs-btn-focus-shadow-rgb: 25, 135, 84;
+  --bs-btn-active-color: #000000 !important;
+  --bs-btn-active-bg: rgb(75, 75, 75) !important;
+  --bs-btn-active-border-color: rgb(75, 75, 75) !important;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(68, 64, 64, 0.125);
+  --bs-btn-disabled-color: rgb(75, 75, 75) !important;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: rgb(75, 75, 75) !important;
+  --bs-gradient: none;
+}
+.img-cake {
+  display: flex;
+  width: 32px;
+  margin: auto;
+  margin-right: 20px;
+  
+}
+.p-pasteleria {
+  margin-top: -17px;
 }
