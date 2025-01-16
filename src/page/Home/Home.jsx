@@ -5,8 +5,8 @@ import Content from '../../component/content/Content'
 const Home = () => {
   return (
     <>
-    <div className='main'>
-    <div className='main-conteiner'>
+    <div className='main conteiner'>
+    <div className='main-conteiner conteiner'>
     <Navbar></Navbar>
     <Content>
 
