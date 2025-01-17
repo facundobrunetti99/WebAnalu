@@ -78,7 +78,6 @@ const Content = () => {
             <div className="conteiner-comments">
               <div className="tittle-comments">
                 <p>Comentarios</p>
-
                 <div className="star-conteiner">
                   ⭐⭐⭐⭐⭐
                 </div>

@@ -1,11 +1,4 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-:root {
-  --bs-tertiary-bg-rgb: 255, 255, 255 !important; /* Cambia al color deseado */
-}
+
 
 .collapse {
   background-color: #ffffff !important;
