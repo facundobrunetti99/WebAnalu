@@ -1,12 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --bs-tertiary-bg-rgb: 255, 255, 255 !important; 
+}
 .main {
   width: 100%;
-
-  background-color: 	#3B2A57 !important;
+  background-color: #3b2a57 !important;
   padding: 30px;
 }
 .main-conteiner {
   width: 92%;
-
+  background-color: #ffffff !important;
   margin: auto;
-  
 }

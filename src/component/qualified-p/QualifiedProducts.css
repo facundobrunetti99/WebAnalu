@@ -1,0 +1,34 @@
+.qualified-products-main {
+  background-color: #c9b4f0;
+  padding: 20px;
+
+}
+.product-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+.product-card {
+  color: #000000;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.product-title {
+  font-family: cursive;
+  font-size: 15px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.contain-product {
+  background-color: #fff;
+  width: 80%;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.products-grid {
+  justify-content: center;
+}

@@ -2,22 +2,27 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+:root {
+  --bs-tertiary-bg-rgb: 255, 255, 255 !important; /* Cambia al color deseado */
+}
+
+.collapse {
   background-color: #ffffff !important;
 }
 
 .conteiner-navbar {
   width: 92%;
   padding: 20px;
-
+  background-color: #ffffff !important;
   margin: auto;
 }
 .bg-body-tertiary {
-  --bs-bg-opacity: 1;
-  background-color: #ffffff !important;
+  background-color: #fff !important;
   padding: 0 !important;
-
   margin: auto;
 }
+
 .div-logo-analu {
   width: 50%;
   display: flex;
@@ -31,7 +36,7 @@
   margin-right: 0;
 }
 .nav-item {
-  padding: 0 15px;
+  padding: 0 10px;
 }
 .p-analu {
   font-size: 32px;
