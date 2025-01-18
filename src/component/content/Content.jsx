@@ -4,7 +4,7 @@ import Button from "../button/Button";
 const Content = () => {
   return (
     <>
-      <div className="conteiner text-center conteiner-content">
+      <div className="container text-center conteiner-content">
         <div className="row main-content-public">
           <div className="col col-text-page">
             <h1 className="title-page">El Arte de Endulzar Tus Momentos</h1>
@@ -75,10 +75,10 @@ const Content = () => {
             </div>
           </div>
           <div className="col-2-row-img col-4">
-            <div className="conteiner-comments">
+            <div className="container-comments">
               <div className="tittle-comments">
                 <p>Comentarios</p>
-                <div className="star-conteiner">
+                <div className="star-container">
                   ⭐⭐⭐⭐⭐
                 </div>
               </div>

@@ -8,12 +8,13 @@
 }
 .main {
   width: 100%;
-  background-color: #3b2a57 !important;
-  padding: 30px;
+/*   background-color: #3b2a57 !important;
+ */  padding: 10px;
   padding-bottom: 0;
+  background-color: #f3f1f1fd;
 }
 .main-conteiner {
-  width: 92%;
+  width: 100%;
   background-color: #ffffff !important;
   margin: auto;
 }

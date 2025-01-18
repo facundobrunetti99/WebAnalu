@@ -4,7 +4,7 @@ import "../footer/Footer.css";
 const Footer = () => {
   return (
     <footer className="footer-container coteiner">
-      <div className="conteiner conteiner-items-footer row">
+      <div className="container container-items-footer row">
         <div className="col col1">
           <p className="tex-a" href="#">
             Contactanos
@@ -43,6 +43,8 @@ const Footer = () => {
             <span className="text-mail">analupasteleria@gmail.com</span>
           </div>
           <div>
+          
+            <a href="https://www.instagram.com/analu.v.m.s.l/">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               x="0px"
@@ -99,7 +101,9 @@ const Footer = () => {
                 d="M30,37H18c-3.859,0-7-3.14-7-7V18c0-3.86,3.141-7,7-7h12c3.859,0,7,3.14,7,7v12	C37,33.86,33.859,37,30,37z M18,13c-2.757,0-5,2.243-5,5v12c0,2.757,2.243,5,5,5h12c2.757,0,5-2.243,5-5V18c0-2.757-2.243-5-5-5H18z"
               ></path>
             </svg>
-            <span className="text-instagram">Analu.vm</span>
+             <span className="text-instagram">Analu.vm</span>
+            </a>
+           
           </div>
         </div>
         <div className="col col2">
