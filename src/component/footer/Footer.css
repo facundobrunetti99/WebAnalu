@@ -7,10 +7,51 @@
 
 }
 .conteiner-items-footer{
-  width: 95%;
+  width: 100%;
   margin: 0 !important;
   margin: auto !important;
   text-align: center;
   justify-content: center !important;
   align-items: center;
+}
+.analu-footer{
+  color: #e7e7e7;
+  font-size: 30px;
+}
+
+.tex-a{
+  color: #e7e7e7;
+  text-decoration: none;
+  font-size: 25px;
+}
+.tel-wp{
+  font-size: 20px;
+  color: #e7e7e7;
+}
+.img-wp{
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.tel{
+  font-size: 20px;
+  color: #e7e7e7;
+}
+.img-tel{
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.svg-mail{
+  color: #d11a1a;
+}
+.text-mail{
+  font-size: 20px;
+  color: #e7e7e7;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.text-instagram{
+  font-size: 20px;
+  color: #e7e7e7;
+  margin-bottom: 10px;
+  margin-left: 10px;
 }
