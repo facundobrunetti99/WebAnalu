@@ -3,4 +3,14 @@
   height: 200px;
   background-color: #4f3874;
   padding-top: 40px;
+  display: flex;
+
+}
+.conteiner-items-footer{
+  width: 95%;
+  margin: 0 !important;
+  margin: auto !important;
+  text-align: center;
+  justify-content: center !important;
+  align-items: center;
 }
