@@ -39,7 +39,8 @@
   font-weight: 300;
   font-style: normal;
   text-align: center;
-  width: 90%;
+  width: 20%;
+  display: block;
   text-align: start;
 }
 
@@ -74,4 +75,7 @@
 }
 .p-pasteleria {
   margin-top: -17px;
+}
+.div-text-cake{
+  width: 100%;
 }
