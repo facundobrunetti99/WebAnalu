@@ -33,7 +33,6 @@ const products = [
 ];
 
 const QualifiedProducts = () => {
-  
   const renderProducts = () =>
     products.map((product) => (
       <div key={product.id} className="product-card col">
