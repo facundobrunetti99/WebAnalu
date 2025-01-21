@@ -15,10 +15,7 @@ const Home = () => {
     <QualifiedProducts></QualifiedProducts>
     <Footer></Footer>
     </div>
-    
     </div>
-    
-    
     </>
     
   )
