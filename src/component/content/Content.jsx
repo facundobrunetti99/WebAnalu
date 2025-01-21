@@ -1,6 +1,7 @@
 import React from "react";
 import "../content/Content.css";
 import Button from "../button/Button";
+import QualifiedProducts from "../qualified-p/QualifiedProducts";
 const Content = () => {
   return (
     <>
@@ -91,6 +92,7 @@ const Content = () => {
           </div>
         </div>
       </div>
+      <QualifiedProducts></QualifiedProducts>
     </>
   );
 };
