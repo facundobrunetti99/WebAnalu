@@ -1,7 +1,6 @@
 import React from 'react'
 import Navbar from '../../component/navbar/Navbar'
 import "../Home/Home.css"
-
 import Footer from '../../component/footer/Footer'
 import { Outlet } from 'react-router-dom'
 const Home = () => {
