@@ -1,6 +1,6 @@
 .footer-container {
   width: 100%;
-  height: 200px;
+  height: 300px;
   display: flex;
   justify-content: center;
   padding-bottom: 30px;
@@ -23,71 +23,68 @@ a {
   align-items: center;
 }
 .analu-footer {
-  color: #312e2e;;
+  color: #312e2e;
   font-size: 33px;
 }
 
 .tex-a {
-  color: #312e2e;;
+  color: #413f3f;
   text-decoration: none;
-  font-size: 25px;
-  
+  font-size: 23px;
+  font-family: Cursive;
 }
 .tel-wp {
-  font-size: 20px;
-  color: #000000;
-  
+  font-size: 18px;
+  color: #312e2e;
 }
 .img-wp {
   margin-bottom: 10px;
   margin-right: 10px;
-  
 }
 .tel {
-  font-size: 20px;
+  font-size: 18px;
   color: #312e2e;
- 
 }
 .img-tel {
   margin-bottom: 10px;
   margin-right: 10px;
- 
 }
 .svg-mail {
   color: #d11a1a;
-
 }
 .text-mail {
   font-size: 20px;
-  color: #312e2e;;
+  color: #312e2e;
   margin-bottom: 10px;
   z-index: 3;
   margin-left: 10px;
 }
 .text-instagram {
   font-size: 20px;
-  color: #312e2e;;
+  color: #312e2e;
   margin-bottom: 10px;
-
   margin-left: 10px;
 }
 .col2 {
   display: flex;
-
   flex-direction: column;
+  justify-content: center;
   align-items: start;
-  margin-bottom: 30px;
+  margin-top: 50px !important;
 }
 .col1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
 }
 .col3 {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  
 }

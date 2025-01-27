@@ -16,103 +16,25 @@ const Footer = () => {
             <a className="p-analu analu-footer" href="#">
               Analu <p className="p-pasteleria">Pasteleria</p>
             </a>
+          
           </div>
+          <p className="dir">Villa Mercedes - San Luis La rioja 80</p>
+          <p>Derechos reservados Lucia Morales Sciu</p>
+          
         </div>
+        
         <div className="col col1">
           <p className="tex-a" href="#">
             Contactanos
           </p>
 
           <div>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              x="0px"
-              y="0px"
-              width="32"
-              height="32"
-              viewBox="0 0 48 48"
-            >
-              <path
-                fill="#4caf50"
-                d="M45,16.2l-5,2.75l-5,4.75L35,40h7c1.657,0,3-1.343,3-3V16.2z"
-              ></path>
-              <path
-                fill="#1e88e5"
-                d="M3,16.2l3.614,1.71L13,23.7V40H6c-1.657,0-3-1.343-3-3V16.2z"
-              ></path>
-              <polygon
-                fill="#e53935"
-                points="35,11.2 24,19.45 13,11.2 12,17 13,23.7 24,31.95 35,23.7 36,17"
-              ></polygon>
-              <path
-                fill="#c62828"
-                d="M3,12.298V16.2l10,7.5V11.2L9.876,8.859C9.132,8.301,8.228,8,7.298,8h0C4.924,8,3,9.924,3,12.298z"
-              ></path>
-              <path
-                fill="#fbc02d"
-                d="M45,12.298V16.2l-10,7.5V11.2l3.124-2.341C38.868,8.301,39.772,8,40.702,8h0 C43.076,8,45,9.924,45,12.298z"
-              ></path>
-            </svg>
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAAXNSR0IArs4c6QAAAPBJREFUOE/VlOERgjAMhZNOgpvgJMoiNC2DyCbiJnUQiaaCSulR4I7z6N/2fc17SYuwwcINmLBDKBFlbduelFI3ImqWxFKWpVas7lRRLbqPfV1q7kEMTNZakwJLIfzgCyDk/ixCbYwpPPRVWc4tXwOIQ4VHInIxeFTD0JjKHKegwnIMXIdVi10EpNFlM6Fe18cxshtSl0A7rcSQTea8Aprqm1iazlQsR3P7on3egzMJqDPWHHyG76kY2u7EowmYA+3GLWNmDQzn36ZFR3EutAfHXtvqSqe68xfoIDd5SdKo1AyFlSJjIZ/KDv/TlNUl+09JuvkWmacDaQAAAABJRU5ErkJggg=="/>
             <span className="text-mail">analupasteleria@gmail.com</span>
           </div>
           <div>
             <a href="https://www.instagram.com/analu.v.m.s.l/">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                x="0px"
-                y="0px"
-                width="32"
-                height="32"
-                viewBox="0 0 48 48"
-              >
-                <radialGradient
-                  id="yOrnnhliCrdS2gy~4tD8ma_Xy10Jcu1L2Su_gr1"
-                  cx="19.38"
-                  cy="42.035"
-                  r="44.899"
-                  gradientUnits="userSpaceOnUse"
-                >
-                  <stop offset="0" stop-color="#fd5"></stop>
-                  <stop offset=".328" stop-color="#ff543f"></stop>
-                  <stop offset=".348" stop-color="#fc5245"></stop>
-                  <stop offset=".504" stop-color="#e64771"></stop>
-                  <stop offset=".643" stop-color="#d53e91"></stop>
-                  <stop offset=".761" stop-color="#cc39a4"></stop>
-                  <stop offset=".841" stop-color="#c837ab"></stop>
-                </radialGradient>
-                <path
-                  fill="url(#yOrnnhliCrdS2gy~4tD8ma_Xy10Jcu1L2Su_gr1)"
-                  d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20	c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20	C42.014,38.383,38.417,41.986,34.017,41.99z"
-                ></path>
-                <radialGradient
-                  id="yOrnnhliCrdS2gy~4tD8mb_Xy10Jcu1L2Su_gr2"
-                  cx="11.786"
-                  cy="5.54"
-                  r="29.813"
-                  gradientTransform="matrix(1 0 0 .6663 0 1.849)"
-                  gradientUnits="userSpaceOnUse"
-                >
-                  <stop offset="0" stop-color="#4168c9"></stop>
-                  <stop
-                    offset=".999"
-                    stop-color="#4168c9"
-                    stop-opacity="0"
-                  ></stop>
-                </radialGradient>
-                <path
-                  fill="url(#yOrnnhliCrdS2gy~4tD8mb_Xy10Jcu1L2Su_gr2)"
-                  d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20	c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20	C42.014,38.383,38.417,41.986,34.017,41.99z"
-                ></path>
-                <path
-                  fill="#fff"
-                  d="M24,31c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S27.859,31,24,31z M24,19c-2.757,0-5,2.243-5,5	s2.243,5,5,5s5-2.243,5-5S26.757,19,24,19z"
-                ></path>
-                <circle cx="31.5" cy="16.5" r="1.5" fill="#fff"></circle>
-                <path
-                  fill="#fff"
-                  d="M30,37H18c-3.859,0-7-3.14-7-7V18c0-3.86,3.141-7,7-7h12c3.859,0,7,3.14,7,7v12	C37,33.86,33.859,37,30,37z M18,13c-2.757,0-5,2.243-5,5v12c0,2.757,2.243,5,5,5h12c2.757,0,5-2.243,5-5V18c0-2.757-2.243-5-5-5H18z"
-                ></path>
-              </svg>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAAXNSR0IArs4c6QAAAY1JREFUOE+9lE1OwzAQhd9YXIJduuMWTQ/SMO6CW6CWM3CAuO2CY7RI3IFlcwTEPhmY1I4cNylhAZaiLDz6PO/ND+EPDv0BE6NQZs4A6Dd6nHPHocsLqMKoocNPQA+rBOLczj3F8B6UmXMPbINh8AqgGkk1Q4M5gTYaU+7KWYjrQe3SHkDI4oAx7ati9SgkAsEHgGcRsW7vnMb3oYWV+DIAY3+Dj7aw7wDuxMgt1fSiseW+XPSgQboYmTnnOslc8NpLDG+01hDRp4jcGJi3hpoHEsqDwi7TISjfc0lC/K1x4/0F1bRWi8SIDVn7uGlQq3ZANnF12+6oqYzlTobykpmIytQOhXlLOMidDvXtJUYWaZOnkN9Az0MgqEJV2yzDY5Etk6ExQJtbSI76wFCzX4NqZqdUblcYQt7CB8ayhTaUDfXpGZpUe8oWs4U9qRK3dfZiooIMn+3YzPfe6Xo5Kmi6UMKGgvonRir9D2ZLyHQw9C4d7cHVhxo5DOY6etfkt8UjbNOW+9/NP6VAYzFfqO5BJbBwbxEAAAAASUVORK5CYII="/>
               <span className="text-instagram">Analu.vm</span>
             </a>
           </div>
@@ -124,17 +46,11 @@ const Footer = () => {
           </p>
 
           <div>
-            <img
-              className="img-tel"
-              src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAiFJREFUWEftlk1OwlAQx2consO6oIm3gKUBzwCcQUzcATsT4QzWMyhxKZ7CBBZwDymj79lphtfph4XGjV2Z8ur/N5//h/DHD/6xPpQCGD2v27Pr1rIO2FyAu9cPfxd5jwDQJoDtvBdcnBoiE0CKs2gdECqAJl4XhAowelm9mbQbURP1mRd1PiPvDQF8fneqcqQAbherARGYultxFjJZqQMiBXDzstpwpLNecPB7HRCZAFkNZ0YSkEyJ7NP0oov7q8tt1elIAXD9NYC4OTdCbDnrBZ2q4ua7TAAtOlme7yY9WlwHWKzHQDSxURF2eAPK6E+5D9IZEDUmgHDeC4ac4rzyVC1DCiAv0pHMDuJk1m1Nqwrzd/oiEkKIMHzoBqH5wIUzC+qYCVB7QBOSW+8gCxmNaEH3zT4R+bKEWrYyzUiuYxDpdn3CNCQSDp1mtQ5aZm0XuaGdeU1ErmU+00CYEkGfxcsYWO59QKbbHT1OczKyTn7N+bjGuQZWeCNynPFgLI1AvJrHMmqGLeMdhQDaP9G635yL9l6bAM/leBZBFAK4U5H0BGJYdg8oEEkmSwEwhNJ4IRI+FV1YXROTu6U0QJKJfbOvNN4SEZ54Ycl+LHLQXwEknrBYj4lowBcXOW7x38sGwrstV3y74veufVcC4GzYplPmPsMfVPuuDJBK809pzPazG/DgyTGukwC4erbuu6aPDfK1vpDnawHIKIH6+h/gC+3niDBUVY07AAAAAElFTkSuQmCC"
-            />
+          <img className="img-tel" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAAXNSR0IArs4c6QAAAP5JREFUOE+9lOERgjAMhRMmwUmUSZRFSMoi6iSyiWwSCVe4UlqgvcP+br4mL+8V4YSDJzDhP1AiegLAQ0S4bVuTM8miUyL6AMBtAuWCZygz30REoYuDiDUzv1I63oUqDBEvzNwfBbvQUkS+kcLOGFMlQ7WAiBRaesW9laDLhY6bd4oVWKWMPsrlvu4vK2dJK2hAgs6CV0saHFHGJlglqmkaQkTe8urkZyvNSutgTEPgoije2pkfkJBE0ezHnBBwB/jJi0JVMxFRN8yx3bKUC979pawUajPfv4s3kqBaaa12t12H4IvE7XbqjzwsS7/Fq+1cH1Bg7d5Lhh6J6inQHzSejRbSVo+vAAAAAElFTkSuQmCC"/>
             <span className="tel">2657331322</span>
           </div>
           <div>
-            <img
-              className="img-wp"
-              src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAldJREFUWEftVstRAkEQfVOFeWAIGwFQYpUhLCcxEjES8cSGYJVQYAQbAuQBOtr0zs7/gxcvzGULdrbn9ev3elrgn5f45/NxBXAxA3U7HQMYCWAMyKEuoThIYAfgs6nW9CxaxQDqdvr8u3lRFBXYSeClBEgWQN0+DAVOrzhnTEt2mYoDZQsMDsDXGPgeCQhipNsHSGDRVOuXFOgkAKJbAFsVoCSgC1hCLptq8xQDEQXQBdrrrG8mTfVOWWcXfQucHlXJUiCiAGbtlDInOneraj3JnhrYYDIoIZ6a6mPpbgsCqNv7uYCkulMdJ0pMnNnXOBQoBrBu714FxJy0s6o2t0UAZu3dHhBDs+Yl2YRAcCmPW47ns+AxYGa/qtb9e50JOyGUTZyFXsxeOQMAmDJXOIoVwxF9aXL60IL2gV8AoBclnXeRME1HmZqiQB4ApX63XrYGtDBz2av3Oq79bQKAf4i2JnXD8r5AIJSG3MSKGeAgWtHckm0QJOCYRQ1nWdoJaIAvnVjb9UGIJfV7fVkRMP7PLM+snf6GpL4yuDU7aghA1//jVrNBsC3J5+aBJtUxawdFmFKseYDb710xmplqAfoXU6QV93d/1m4GkH5A4ex5KLHbuk1/kAHnoyyAlA1tNsPXcoSBcDcs9bx2TD/IRBMJAnAt09E8LBmx+HBzfEv3jAgAZRksePj0xrE3F4ytBb0/d2klb0Obctdq9PssI3r2c6BxWWXnwYgN9QBBDYU2qabCWR6fecAIrXATSmknyEDJxMNgaJ3Oz1J9uGCyY/klyv/L3iuAH1SGpTB6kbfzAAAAAElFTkSuQmCC"
-            />
+          <img className="img-tel" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAAXNSR0IArs4c6QAAAYBJREFUOE+1lP2NgzAMxeNMQie56ySli+CERcom15sEbhF8vChGJnz+00hIiISf/Z7tkPvAog8w3SVoCKHKwasQwvsskUNo0zRMRN/OOTy6BufcICLvtm3jVoBNKDITkRdgIhK893/Tu2aIb18TuMbeFngFneThpx9AiOgZQkBmq5XPIbCLMd7sgRWUmQHEwfuZd1lRX2a8gGYPAxHdURBmThaUmdhgkxLYAO+hKlm0gDJzD9kxxic2mVnSoRxkL3P8JyKd+ltCJUfsVNpF6MKyGaoFIqKbFif7C/lXWq9WmywUbdRbqSbbQX/At7IjsveVFncLCsM79c+CiShOgR/OOSQwe1jWovR0s53sMJhioaDoElU4J7OAGl9TSxWtg/lP0yQig1Y6+w7p8wCUUPTcyxbraACyl3XZcqX8NHbwbhzHB2be+lv4nAZDW3B3TLPhes3ZWylZAdnm1sL7PEWHUFTVe/8LT1EEZExECJSC4crbU6DgS5f02cVS7n8E+g8x7SQlJGEqGQAAAABJRU5ErkJggg=="/>
             <span className="tel-wp">2657314542</span>
           </div>
         </div>
