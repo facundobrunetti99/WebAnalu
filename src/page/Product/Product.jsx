@@ -47,8 +47,17 @@ const Product = () => {
   return (
     <div className='main-conteiner-product conteiner'>
     <div className="search-bar">
+    <div className='button-search'>
+    <input
 
-    esta es la busqueda
+    class="form-control me-2 "
+    type="search"
+    placeholder="Buscar producto"
+    aria-label="Search"
+    ></input>
+                
+
+    </div>
     </div>
     <div className="conteiner-list-products row">
     {
