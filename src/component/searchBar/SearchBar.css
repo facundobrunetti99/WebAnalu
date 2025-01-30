@@ -1,0 +1,12 @@
+.button-search{
+    margin-left: 10px;
+}
+.conteiner-checkbox{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.search-bar{
+    width: 22%;
+    margin-top: 44px;
+}

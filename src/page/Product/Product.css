@@ -14,3 +14,8 @@
 .button-search{
     margin-left: 10px;
 }
+.conteiner-checkbox{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
