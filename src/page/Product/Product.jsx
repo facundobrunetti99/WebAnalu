@@ -26,7 +26,7 @@ const products = [
 const Product = () => {
   return (
     <div className="main-conteiner-product conteiner">
-        <SearchBar></SearchBar>
+      <SearchBar></SearchBar>
       <div className="conteiner-list-products row">
         {products.map((product) => (
           <ProductItem
